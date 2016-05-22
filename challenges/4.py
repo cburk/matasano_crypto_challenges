@@ -1,7 +1,7 @@
 from string_ops import likely_single_xor
 
 #Find single encrypted line and it's plaintext in a file
-
+# Works, but need to copy ciphers from challenge to run it...
 f = open("../files/4ciphertexts", "r")
 
 print f
